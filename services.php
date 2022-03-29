@@ -38,11 +38,10 @@
                       <div class="col-md-6 d-flex justify-content-md-end">
                          <div class="social-media">
                             <p class="mb-0 d-flex">
-                               <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-                               <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-                               <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-                               <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
-                            </p>
+   							   <a title="Facebook" href="https://www.facebook.com/Faorviga-103726655592845" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+							   <a title="Twitter" href="https://twitter.com/FaorvigaM" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+							   <a title="Instagram" href="https://www.instagram.com/faorvigamx/" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>        
+							</p>
                          </div>
                       </div>
                    </div>

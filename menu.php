@@ -81,10 +81,9 @@ function header($active)
 			 <div class="col-md-4 col-sm-6 col-xs-12">
 				<br>
 				<ul class="social-icons">
-				   <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-				   <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-				   <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
-				   <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+				   <li><a title="Facebook" class="facebook" href="https://www.facebook.com/Faorviga-103726655592845"><i class="fa fa-facebook"></i></a></li>
+				   <li><a title="Twitter" class="twitter" href="https://twitter.com/FaorvigaM"><i class="fa fa-twitter"></i></a></li>	
+				   <li><a title="Instagram" class="instagram" href="https://www.instagram.com/faorvigamx/"><i class="fa fa-instagram"></i></a></li>
 				</ul>
 			 </div>
 		  </div>
